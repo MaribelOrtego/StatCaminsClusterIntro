@@ -92,6 +92,21 @@ library(kableExtra)
 
 Una vegada activades les llibreries, hem de llegir les dades d'onatge, contingudes al fitxer **"max_boies.dat"**.
 
+::: {.infobox .circle data-latex="{circle}"}
+
+***AVÍS!***
+
+Per evitar que el tutorial tingui problemes amb la ubicació dels  fitxers en els diferents sistemes operatius (problema amb què ens vam trobar al Lab1), utilitzarem la llibreria `here`. 
+:::
+
+Fixem el directori de referència pel tutorial:
+
+```{r, establimhere}
+here::i_am("README2.md")
+
+```
+
+
 ::: {.infobox .caution data-latex="{caution}"}
 <span style="font-size: 20px; color: darkgoldenrod; text-align: right;">**Recorda obrir el conjunt de dades considerant el seu format**
 :::
