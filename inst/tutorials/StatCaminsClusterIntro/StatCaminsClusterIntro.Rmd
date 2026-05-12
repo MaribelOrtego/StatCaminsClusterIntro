@@ -71,11 +71,7 @@ El principal objectiu és dur a terme un anàlisis cluster, a partir de diferent
 
 ## Carregam llibreries
 
-<<<<<<< HEAD
 En primer lloc, carreguem les llibreries que necessitarem a la sessió. Recordeu que prèviament cal tenir la llibreria instal·lada. Si no disposem, per exemple, de la llibreria `factoextra` (@factoextraref), caldrà executar prèviament la seva instal·lació, i després activar-la a la sessió. En alguns casos poden aparéixer advertències sobre la versió de R que estem utilitzant, si el paquet és més recent que la versió de `R` instal·lada.
-=======
-En primer lloc, carreguem les llibreries que necessitarem a la sessió. Recordeu que prèviament cal tenir la llibreria instal·lada. Si no disposem, per exemple, de la llibreria factoextra (@factoextraref), caldrà executar prèviament la seva instal·lació, i després activar-la a la sessió. En alguns casos poden aparéixer advertències sobre la versió de R que estem utilitzant, si el paquet és més recent que la versió de R instal·lada.
->>>>>>> 8f8556fcce2ad7fba8036e71d4c6e8a9b561a93b
 
 ```{r libraries, message=FALSE}
 #install.packages("here")
