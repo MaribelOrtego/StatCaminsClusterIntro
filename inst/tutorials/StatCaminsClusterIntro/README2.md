@@ -1,5 +1,4 @@
 # StatCaminsClusterIntro
-StatCamins. Introduction to Cluster Analysis
 
 StatCaminsClusterIntro Package. Download and install it
 
